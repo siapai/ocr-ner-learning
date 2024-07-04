@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+.venv
+1_BusinessCardNER/Version_1/Selected
+1_BusinessCardNER/Version_1/data
+1_BusinessCardNER/Version_1/output
+1_BusinessCardNER/Version_2/output
+1_BusinessCardNER/Version_2/data
+2_DocumentScanner/output
+tessdata
+*.zip
+*.keras
+*.avi
+*.h5
+*.jpg
+*.pickle
+*.spacy
